@@ -1,5 +1,5 @@
 {
-    "name": "sprintechnology/pdf-to-image",
+    "name": "steffen-99/pdf-to-image",
     "description": "Convert a pdf to an image",
     "keywords": [
         "spatie",
@@ -8,7 +8,7 @@
         "convert",
         "image"
     ],
-    "homepage": "https://github.com/spatie/pdf-to-image",
+    "homepage": "https://github.com/steffen-99/pdf-to-image",
     "license": "MIT",
     "authors": [
         {
