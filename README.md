@@ -19,7 +19,7 @@ You should have [Imagick](http://php.net/manual/en/imagick.setresolution.php) an
 
 The package can be installed via composer:
 ``` bash
-$ composer require spatie/pdf-to-image
+$ composer require steffen-99/pdf-to-image
 ```
 
 ## Usage
